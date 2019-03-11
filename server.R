@@ -1,5 +1,8 @@
 library(shiny)
 library(shinydashboard)
+library(plotly)
+library(corrplot)
+library(Rmisc)
 
 shinyServer(function(input,output){
   
