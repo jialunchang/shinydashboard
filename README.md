@@ -1,2 +1,2 @@
 # shinydashboard
-install.packages(c("plotly", "corrplot", "Rmisc"))
+install.packages(c("shiny", "shinydashboard", "plotly", "corrplot", "Rmisc"))
